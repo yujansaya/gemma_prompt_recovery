@@ -1,5 +1,7 @@
 # Prompt Recovery with Gemma
 The project aims to generate prompts for essay rewriting by fine-tuning a pre-trained language model on a dataset of original and rewritten texts. It involves loading the model, preparing the data, training the model, and then utilizing the trained model to generate prompts based on provided texts, ultimately producing a CSV file containing the generated prompts for further analysis or evaluation.
+<img width="851" alt="Screenshot 2024-04-26 at 2 00 11 PM" src="https://github.com/yujansaya/gemma_prompt_recovery/assets/109923065/92bcddb4-e54f-43c3-ac34-6ee8c1243cc0">
+
 
 ## Tools and Dependencies:
 - Python programming language
